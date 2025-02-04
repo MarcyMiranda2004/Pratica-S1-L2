@@ -1,6 +1,7 @@
 body {
   background-color: rgb(202, 179, 223);
   text-align: justify;
+  margin: 20;
 }
 
 #header img {
