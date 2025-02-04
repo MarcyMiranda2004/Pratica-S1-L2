@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(202, 179, 223);
+  text-align: justify;
+}
+
+#header img {
+  height: 120px;
+}
+
+#header p {
+  font-size: 1.5em;
+}
+
+footer {
+  background: linear-gradient(to right, #2d0399, #6d3ee4);
+  color: white;
+  padding: 16px;
+  margin-top: auto;
+  position: relative;
+  width: 100vw;
+  left: -10px;
+}
+
+footer a {
+  color: aquamarine;
+}
