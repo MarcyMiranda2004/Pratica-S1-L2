@@ -12,8 +12,19 @@ body {
   font-size: 1.5em;
 }
 
+caption {
+  font-size: 1.5em;
+}
+
+table,
+td,
+th {
+  border-style: solid;
+  padding: 0.4em;
+}
+
 footer {
-  background: linear-gradient(to right, #2d0399, #6d3ee4);
+  background: linear-gradient(to right, #1f065e, #7c53e4);
   color: white;
   padding: 16px;
   margin-top: auto;
